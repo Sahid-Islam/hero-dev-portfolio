@@ -67,6 +67,9 @@ footer{
     margin-top: 10px;
     border: none;
 }
+.feadback textarea{
+    height: 180px;
+}
 .feadback button{
     background-color: #FD6E0A;
     color: white;
