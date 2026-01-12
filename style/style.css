@@ -66,6 +66,11 @@ header{
     color: #474747;
     margin: 20px 0px;
 }
+.btn-group{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
 .hero .hero-doc button{
     background-color: #FD6E0A;
     border: 1px solid #FD6E0A;
